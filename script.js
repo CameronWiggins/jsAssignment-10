@@ -29,5 +29,5 @@ contentPink.appendChild(contentInside);
 
 const contentToo = document.createElement("p");
 contentToo.classList.add("content");
-contentToo.textContent = "ME TOO";
+contentToo.textContent = "ME TOO!";
 contentPink.appendChild(contentToo);
